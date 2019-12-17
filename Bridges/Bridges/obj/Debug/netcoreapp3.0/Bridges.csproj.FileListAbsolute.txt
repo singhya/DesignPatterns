@@ -1,0 +1,11 @@
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.exe
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.deps.json
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.runtimeconfig.json
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.runtimeconfig.dev.json
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.dll
+C:\GIT\DesignPatterns\Bridges\Bridges\bin\Debug\netcoreapp3.0\Bridges.pdb
+C:\GIT\DesignPatterns\Bridges\Bridges\obj\Debug\netcoreapp3.0\Bridges.csprojAssemblyReference.cache
+C:\GIT\DesignPatterns\Bridges\Bridges\obj\Debug\netcoreapp3.0\Bridges.AssemblyInfoInputs.cache
+C:\GIT\DesignPatterns\Bridges\Bridges\obj\Debug\netcoreapp3.0\Bridges.AssemblyInfo.cs
+C:\GIT\DesignPatterns\Bridges\Bridges\obj\Debug\netcoreapp3.0\Bridges.dll
+C:\GIT\DesignPatterns\Bridges\Bridges\obj\Debug\netcoreapp3.0\Bridges.pdb
